@@ -1,0 +1,13 @@
+00/
+EBOOT.PBP
+PARAM.SFO
+idaft.elf
+idaft.prx
+cygncurses-8.dll
+cygreadline6.dll
+cygusb0.dll
+cygwin1.dll
+pspsh.exe
+usbhostfs_pc.exe
+build.bat
+*.o
