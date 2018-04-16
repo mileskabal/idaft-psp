@@ -1,6 +1,6 @@
 **iDaft PSP**
 
-![ScreenShot](http://mileskabal.com/psp/img/article/idaft03.jpg) 
+![ScreenShot](https://mileskabal.com/psp/img/article/idaft03.jpg) 
 
 iDaft PSP is a homebrew for Sony PSP.
 Original game by Matias Najle.
